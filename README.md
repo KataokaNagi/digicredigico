@@ -5,6 +5,8 @@ This is made for my club invitation page & "Kuso-Dasa-Grand-Prix"
 ## Site Link
 [デジクリ デジコのホームページ](https://kataokanagi.github.io/digicredigico/index.html)
 
+[![image](https://user-images.githubusercontent.com/45355440/110201645-84591180-7ea7-11eb-8e9a-637e5b70f948.png)](https://kataokanagi.github.io/digicredigico/index.html)
+
 ## License
 Don’ｔ reuse source files.
 
