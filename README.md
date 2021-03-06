@@ -1,8 +1,12 @@
 # digicredigico
-Joking introduction websites of my club invitation page
+Joking introduction websites.
+This is made for my club invitation page & "Kuso-Dasa-Grand-Prix"
 
 ## Site Link
 [デジクリ デジコのホームページ](https://kataokanagi.github.io/digicredigico/index.html)
+
+## License
+Don’ｔ reuse source files.
 
 ## Acknowledgements
 I would like to thank their authers.  
